@@ -1,0 +1,6 @@
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Received KB/sec,Sent KB/sec
+WebSocket Open Connection,20000,130,46,569,625,1066,1,1271,0.000%,738.93446,119.79,136.39
+WebSocket Single Write Sampler,20000,0,0,0,1,1,0,16,0.000%,739.50823,0.00,7.22
+WebSocket Single Read Sampler Data,20000,38,29,82,96,148,0,438,0.000%,739.26222,6915.42,0.00
+WebSocket Close,20000,31,20,78,103,170,0,452,0.000%,739.48088,19.50,22.39
+TOTAL,80000,50,20,90,137,637,0,1271,0.000%,2954.75531,7049.28,165.92

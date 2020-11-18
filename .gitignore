@@ -1,0 +1,8 @@
+/.idea/
+/native-jetty-websocket-example/.idea/
+/native-jetty-websocket-example/target/
+/native-jetty-websocket-example/native-jetty-websocket-example.iml
+/netty-socketio-demo/.idea/
+/netty-socketio-demo/server/target/classes/
+/netty-socketio-demo/server/demo.iml
+/netty-socketio-demo/server/.idea/

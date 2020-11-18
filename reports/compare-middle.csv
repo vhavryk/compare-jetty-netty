@@ -1,0 +1,8 @@
+Attribute,Jetty,Netty
+Data file size (KB),10,10
+Average response time on opening connection (ms),130,173
+Average response time on opening connection (ms),1271,1105
+Average response time on reading data (ms),38,33
+Maximum response time on read data (ms),438,866
+Maximum heap size (MB),150,124
+Maximum created threads,43,18

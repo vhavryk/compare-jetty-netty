@@ -1,0 +1,59 @@
+[
+  {
+    "_id": "5fac09ad1c3f626c9a95db48",
+    "index": 0,
+    "guid": "04bb29f7-a4fa-4264-8cbf-74cd567567c2",
+    "isActive": false,
+    "balance": "$3,892.99",
+    "picture": "http://placehold.it/32x32",
+    "age": 28,
+    "eyeColor": "blue",
+    "name": {
+      "first": "Wilda",
+      "last": "Page CloseConnection"
+    },
+    "company": "HONOTRON",
+    "email": "wilda.page@honotron.org",
+    "phone": "+1 (925) 442-3351",
+    "address": "332 Cumberland Street, Tyhee, Rhode Island, 6431",
+    "about": "Excepteur nulla minim id minim deserunt labore veniam deserunt enim voluptate sint proident occaecat nulla. Aliqua culpa deserunt quis magna laboris enim culpa sint eu ad. Nulla commodo sunt qui non commodo aliquip non excepteur ut non. Velit amet cillum non exercitation sunt ad. Excepteur cillum et aute nulla eiusmod dolore sunt quis excepteur eu aute magna commodo sint. Sint Lorem ex do eiusmod ex laboris non amet in do velit et.",
+    "registered": "Wednesday, May 24, 2017 11:17 PM",
+    "latitude": "31.991553",
+    "longitude": "-148.69557",
+    "tags": [
+      "adipisicing",
+      "reprehenderit",
+      "deserunt",
+      "tempor",
+      "laboris"
+    ],
+    "range": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Barlow Wheeler"
+      },
+      {
+        "id": 1,
+        "name": "Stephenson Herring"
+      },
+      {
+        "id": 2,
+        "name": "Oneil Porter"
+      }
+    ],
+    "greeting": "Hello, Wilda! You have 8 unread messages.",
+    "favoriteFruit": "apple"
+  }
+]
